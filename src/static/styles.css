@@ -142,3 +142,24 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+.participants-section {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #eee;
+}
+
+.participants-section h5 {
+  margin: 0 0 0.5rem 0;
+  color: #555;
+}
+
+.participants-list {
+  margin: 0;
+  padding-left: 1.5rem;
+}
+
+.participants-list li {
+  color: #666;
+  margin-bottom: 0.25rem;
+}
